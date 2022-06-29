@@ -1,5 +1,0 @@
----
-applications:
- - name: plant-disease
-   random-random: true
-   memory: 128M

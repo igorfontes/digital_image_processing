@@ -2,10 +2,16 @@
 
 The plant disease detection system with efficient image segmentation and feature extraction algorithms and statistical models.
 
-- Added improvements (_v3 files)
+- We added improvements to the original proposal analysing image morphology and different color spaces. See *shadow_removal_v5* to get a step-by-step of the image processing and explore the classification results in da_and_md/classification folder;
 
-- Investigate other filters;
+- The files finished with *_v2* corresponds to the original paper, while with *_v5*, our alternative proposal. We reached the best results using images from corn leaves;
 
-*Other possibilities to explore*
+*Possibilities we explored*
 
-- Shadow removal of images;
+- Alternative ways to smooth images;
+
+- Shadow removal of images to get precise features from the dataset;
+
+- Erosion and dilation to deal with image gaps;
+
+Final presentation (video): 
