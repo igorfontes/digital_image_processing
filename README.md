@@ -14,4 +14,4 @@ The plant disease detection system with efficient image segmentation and feature
 
 - Erosion and dilation to deal with image gaps;
 
-Final presentation (video): 
+Playlist with all presentations (Videos/YouTube): [Playlist DIP Project](https://youtube.com/playlist?list=PLYLEmwupBdF2UrVjWl02rT2YiZKzM1Tjo)
